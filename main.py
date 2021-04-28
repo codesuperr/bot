@@ -136,7 +136,7 @@ async def on_command_error(ctx, error):
         await ctx.send("vous devez obligatoirement entrer !warning <@pseudo>")
 
 #donner le jeton pour qu'il se connecte
-jeton = "ODM0Nzk1NjcwMDQ0NjcyMDQx.YIGGDQ.4D4iJuEnfBaBOL-F0ASROrLOdDY"
+jeton = "ODM0Nzk1NjcwMDQ0NjcyMDQx.YIGGDQ.XmgAOXIp8jLN4-pCyJhdTNTomQQY"
 
 #phrase
 print("lancement du bot...")
